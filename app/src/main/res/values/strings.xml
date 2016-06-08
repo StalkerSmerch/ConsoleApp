@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsoleApp</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_update">Поиск устройств</string>
+</resources>
